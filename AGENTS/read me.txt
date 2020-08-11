@@ -1,8 +1,8 @@
-Agents PSD is the photoshop file. 
+Agents PSD is the photoshop file.
 
 agents.png contains all agent images in a single one to be added to the stylesheet. The other images is just to have a list with high qualiy images
 
-All agents images are resized to 25x25 pixels 
+All agents images are resized to 25x25 pixels (The individual images are on their original size)
 
 Each one is placed one above the other with a 4px gap.
 
