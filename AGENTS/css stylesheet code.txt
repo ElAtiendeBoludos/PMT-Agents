@@ -1,0 +1,45 @@
+a[href*="#agent-"]{
+    content:"";
+    display:inline-block;
+    width:25px;
+    height:25px;
+    background-image:url(%%agents%%);
+    border:none;
+    text-indent:-9999px
+}
+a[href$="#agent-breach"]{
+    background-position:0px 0px
+}
+a[href$="#agent-brimstone"]{
+    background-position:0px -29px
+}
+a[href$="#agent-cypher"]{
+    background-position:0px -58px
+}
+a[href$="#agent-jett"]{
+    background-position:0px -87px
+}
+a[href$="#agent-omen"]{
+    background-position:0px -116px
+}
+a[href$="#agent-phoenix"]{
+    background-position:0px -145px
+}
+a[href$="#agent-raze"]{
+    background-position:0px -174px
+}
+a[href$="#agent-reyna"]{
+    background-position:0px -203px
+}
+a[href$="#agent-sage"]{
+    background-position:0px -232px
+}
+a[href$="#agent-sova"]{
+    background-position:0px -261px
+}
+a[href$="#agent-viper"]{
+    background-position:0px -290px
+}
+a[href$="#agent-killjoy"]{
+    background-position:0px -319px
+}
