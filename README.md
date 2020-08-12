@@ -1,6 +1,8 @@
 # PMT-Agents
 Images, PSD File and CSS code for PMT agents
 
+The code was taken from r/GlobalOffensive and modified to be used in the r/Valorant subreddit
+
 -------
 
 
