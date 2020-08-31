@@ -22,7 +22,7 @@ So the first agent would start at 0px, 2nd at -29px, 3rd at -58, aso.
 
 # How to add code to the Subreddit and how to use it
 
-Agents are called in posts with >[xxxx](#agent-xxxx) with xxxx being the agents name 
+Agents are called in posts with "[xxxx] (#agent-xxxx)" with xxxx being the agents name 
 
 To add the code to the stylesheet go to https://old.reddit.com/r/Valorant/about/stylesheet/ 
 
