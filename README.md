@@ -8,7 +8,7 @@ The code was taken from r/GlobalOffensive and modified to be used in the r/Valor
 
 Agents PSD is the photoshop file. 
 
-agents.png contains all agent images in a single one to be added to the stylesheet. The other images is just to have a list with high qualiy images
+agents.png contains all agent images in a single one to be added to the stylesheet. The other images in the individual images file is just to have a folder with high qualiy imagesof each agent
 
 All agents images are resized to 25x25 pixels (The individual images are on their original size)
 
